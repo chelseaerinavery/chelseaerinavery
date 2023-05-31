@@ -5,8 +5,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:
--  **Tech :** HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript, React.js, Web accessibility, Responsive design, Node.js, Express, MongoDB, PostgreSQL, TDD, OOP, Agile methodologies, Linux based OS/Bash scripting
+-  **Tech :** HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript, React.js, Web accessibility, Responsive design, Node.js, Express, MongoDB, PostgreSQL, TDD, OOP, Agile methodologies, Linux-based OS/Bash scripting
 -  **Hobbies :** Painting :paintbrush: Video Games :video_game: Hiking & Camping :camping::hiking_boot: 
--  **Organization :** 100Devs
-![Codewars Badge](https://www.codewars.com/users/chelseaerinavery/badges/large)
+-  **Organization :** 100Devs 
+
+![Codewars Badge](https://www.codewars.com/users/chelseaerinavery/badges/small)
 
