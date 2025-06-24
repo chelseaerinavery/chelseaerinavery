@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chelseaavery.js@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--  **Tech :** JavaScript, React.js, Next.js, TypeScript, Web accessibility, Responsive design, Node.js, Express, SQL, Ruby
--  **Hobbies :** Painting :paintbrush: Video Games :video_game: Hiking & Camping :camping::hiking_boot: Gardening 👩‍🌾 Cooking 👩‍🍳
--  **Organizations :** [Weedmaps](https://weedmaps.com/) , 100Devs 
+-  **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, TypeScript, Web accessibility, Responsive design 
+-  **Backend:** Node.js, Express, SQL, Ruby
+-  **Organizations :** [Weedmaps](https://weedmaps.com/), [100Devs](https://github.com/100devs)
 
 ![Codewars Badge](https://www.codewars.com/users/chelseaerinavery/badges/small)
 
